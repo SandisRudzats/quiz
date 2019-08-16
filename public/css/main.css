@@ -1,0 +1,16 @@
+.text {
+    color: cadetblue;
+}
+
+.form-group {
+    width: 500px;
+
+}
+
+.formpos {
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
